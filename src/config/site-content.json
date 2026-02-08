@@ -74,9 +74,9 @@
 		},
 		{
 			"id": "juejin",
-			"type": "github",
-			"value": "https://github.com/YekuiAoi",
-			"label": "Github",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2314920909085340",
+			"label": "挖金",
 			"order": 2
 		},
 		{
