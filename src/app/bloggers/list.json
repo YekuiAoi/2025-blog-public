@@ -7,6 +7,27 @@
 		"stars": 5
 	},
 	{
+		"name": "Josh W. Comeau",
+		"url": "https://www.joshwcomeau.com/",
+		"avatar": "https://www.joshwcomeau.com/favicon.png",
+		"description": "John blog 更像是一个课程网站，每一篇文章都书写的很好，每次阅读都能吸收到新的东西。网站设计也恰到好处，工整、有趣。",
+		"stars": 5
+	},
+	{
+		"name": "nanda",
+		"url": "https://www.nan.fyi/",
+		"avatar": "https://www.nan.fyi/favicon.ico",
+		"description": "设计大师，nanda 。页面只用灰色加线条，都让我觉得叹为观止，内容不多，每篇都精雕细琢。跟 Josh 一样，属于技术网站，但它的教程引导更加出神入化，可称为程序艺术家。",
+		"stars": 5
+	},
+	{
+		"name": "Emil Kowalski",
+		"url": "https://emilkowal.ski/",
+		"avatar": "https://emilkowal.ski/favicon.ico",
+		"description": "Blog 就干脆\"不设计\"，无装饰。技术就比较轻松一些，它更强调动画/交互。Vercel 员工，他的组件很好用，也很 vercel。",
+		"stars": 4
+	},
+	{
 		"name": "Risingle",
 		"url": "https://www.imrising.cn/",
 		"avatar": "https://www.imrising.cn/images/logo/logo.webp",
@@ -221,6 +242,13 @@
 		"avatar": "https://blog.dumogu.top/web-assets/v-last/public/user.jpg",
 		"url": "https://blog.dumogu.top/",
 		"description": "前端开发，页面小巧，结构简单，寻常记录",
+		"stars": 3
+	},
+	{
+		"name": "极客技术博客",
+		"avatar": "blob:https://2025-blog-public-six-sable.vercel.app/8d2d0ea5-ea57-4a36-8f92-3631bac7790c",
+		"url": "https://geek-blogs.com/",
+		"description": "我梦开始的地方",
 		"stars": 3
 	}
 ]
