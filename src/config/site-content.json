@@ -30,9 +30,33 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "5a9d2a444a086bf6",
+			"url": "/images/art/5a9d2a444a086bf6.jpeg"
+		},
+		{
+			"id": "c01413026ce14f7f",
+			"url": "/images/art/c01413026ce14f7f.png"
+		},
+		{
+			"id": "86d2e9907d08d0b5",
+			"url": "/images/art/86d2e9907d08d0b5.png"
+		},
+		{
+			"id": "382f95a1d37aaf22",
+			"url": "/images/art/382f95a1d37aaf22.png"
+		},
+		{
+			"id": "0b9ac6da394fd571",
+			"url": "/images/art/0b9ac6da394fd571.jpeg"
+		},
+		{
+			"id": "377c045354024216",
+			"url": "/images/art/377c045354024216.jpeg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "5a9d2a444a086bf6",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,7 +68,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/YekuiAoi",
 			"label": "Github",
 			"order": 3
 		},
@@ -58,7 +82,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "3495503224@qq.com",
 			"label": "",
 			"order": 1
 		}
@@ -68,7 +92,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 7,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
