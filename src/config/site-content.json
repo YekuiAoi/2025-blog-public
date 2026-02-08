@@ -1,12 +1,12 @@
 {
 	"meta": {
 		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "夜葵的个人博客，记录各种经验和资源。",
 		"username": "Suni"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
-		"colorPrimary": "#4E3F42",
+		"colorPrimary": "#4e3f42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
 		"colorBg": "#eeeeee",
