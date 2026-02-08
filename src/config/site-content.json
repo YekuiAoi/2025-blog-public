@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
+		"title": "YekuiAoi",
 		"description": "夜葵的个人博客，记录各种经验和资源。",
-		"username": "Suni"
+		"username": "夜葵"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -30,9 +30,33 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "5a9d2a444a086bf6",
+			"url": "/images/art/5a9d2a444a086bf6.jpeg"
+		},
+		{
+			"id": "c01413026ce14f7f",
+			"url": "/images/art/c01413026ce14f7f.png"
+		},
+		{
+			"id": "86d2e9907d08d0b5",
+			"url": "/images/art/86d2e9907d08d0b5.png"
+		},
+		{
+			"id": "382f95a1d37aaf22",
+			"url": "/images/art/382f95a1d37aaf22.png"
+		},
+		{
+			"id": "0b9ac6da394fd571",
+			"url": "/images/art/0b9ac6da394fd571.jpeg"
+		},
+		{
+			"id": "377c045354024216",
+			"url": "/images/art/377c045354024216.jpeg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "5a9d2a444a086bf6",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -63,12 +87,12 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": true,
+	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 7,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
