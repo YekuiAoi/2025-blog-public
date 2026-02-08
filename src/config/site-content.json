@@ -67,27 +67,27 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/YekuiAoi",
-			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/163700685?spm_id_from=333.1007.0.0",
+			"label": "哔哩哔哩",
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "3495503224@qq.com",
 			"label": "",
-			"order": 1
+			"order": 2
+		},
+		{
+			"id": "juejin",
+			"type": "github",
+			"value": "https://github.com/YekuiAoi",
+			"label": "Github",
+			"order": 3
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
