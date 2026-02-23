@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2-23",
+    "title": "让Surface pro5在优雅运行Ubuntu（含美化）",
+    "tags": [
+      "#linux",
+      "#Ubuntu"
+    ],
+    "date": "2026-02-23T15:00",
+    "summary": "",
+    "cover": "/blogs/2-23/7b098dd8a171535e.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "c-linux",
     "title": "C语言-嵌入式-Linux学习教材资源分享",
     "tags": [
