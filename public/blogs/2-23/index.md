@@ -1,14 +1,14 @@
 Ubuntu+macos式美化+linux-surface，运行优雅流畅，触控可用
-![](/blogs/2-23/a3fd43eb39fcd43e.jpg)
 
-安装好系统后建议看看这个视频选择性配置一些⬇️（https://www.bilibili.com/video/BV1A5SFYMEtD/?spm_id_from=333.337.search-card.all.click&vd_source=22ecf2049a0ba85a7dc1aa1cbfcd2df1）
+安装好系统后建议看看这个视频选择性配置一些⬇️（https://www.bilibili.com/video/BV1A5SFYMEtD/?spm_id_from=333.337.search-card.all.click）
 ![](/blogs/2-23/6d6e324ec13e3ab7.png)
 
 
 
-然后再参照这个视频美化⬇️
+然后再参照这个视频美化⬇️（https://www.bilibili.com/video/BV18NmCBREFu/?spm_id_from=333.337.search-card.all.click&vd_source=22ecf2049a0ba85a7dc1aa1cbfcd2df1）
 ![](/blogs/2-23/fe4cceb09b27101c.png)
 
+```
 sudo apt update && sudo apt upgrade -y #更新和升级一下软件包
 
 sudo apt install gcc make cmake curl perl wget git wmctrl sassc #安装工具 
@@ -21,7 +21,8 @@ sudo apt install ulauncher_5.15.8 all.deb
 
 ```
 
-我安装了这些插件![](/blogs/2-23/957d5475e849d166.jpg)
+我安装了这些插件
+![](/blogs/2-23/957d5475e849d166.jpg)
 
 ```
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-previews' ##启用终端的点击最小化功能
