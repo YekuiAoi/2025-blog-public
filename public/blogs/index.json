@@ -1,5 +1,18 @@
 [
   {
+    "slug": "claude-code",
+    "title": "claude这辈子都有了",
+    "tags": [
+      "#AI",
+      "#claude"
+    ],
+    "date": "2026-04-01T11:09",
+    "summary": "",
+    "cover": "/blogs/claude-code/68c86183e63d479f.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "2-23",
     "title": "让Surface pro5在优雅运行Ubuntu（含美化）",
     "tags": [
